@@ -18,7 +18,7 @@ list_of_tickers = dataframe1['Ticker'].to_numpy()
 
 # API call 
 key = 'D03VFL5XJ25QWELA'
-pathway = r'E:\StockFolder\outputfolder/' 
+pathway = r'E:\StockFolder\StockFolderVideos\outputfolder/' 
 
 # create for url and pass those value
 from apiCall import earnings
